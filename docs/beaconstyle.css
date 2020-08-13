@@ -1,0 +1,55 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  color: #333333;
+  background-color: #E7E6E6;
+}
+
+.text{
+  padding-top: 150px;
+  text-align: center;
+}
+
+#modal{
+  font-family: arial rounded mt;
+  font-size: 30px;
+  color: #333333;
+}
+
+#modal:hover {
+  color: #00A8FF;
+}
+
+#inline{
+  font-family: arial rounded mt;
+  font-size: 30px;
+  color: #333333;
+  padding-left: 50px;
+}
+
+#inline:hover {
+  color: #FF60D0;
+}
+
+#sidebar{
+  font-family: arial rounded mt;
+  font-size: 30px;
+  color: #333333;
+  padding-left: 50px;
+}
+
+#sidebar:hover {
+  color: #13C589;
+}
+
+#article{
+  font-family: arial rounded mt;
+  font-size: 30px;
+  color: #333333;
+  padding-left: 50px;
+}
+
+#article:hover {
+  color: #F07771;
+}
